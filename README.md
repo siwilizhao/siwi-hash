@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/siwilizhao/siwi-hash.svg?branch=master)](https://travis-ci.org/siwilizhao/siwi-hash)
 [![npm](https://img.shields.io/npm/v/siwi-hash.svg)](https://www.npmjs.com/package/siwi-hash)
 [![npm](https://img.shields.io/npm/dt/siwi-hash.svg)](https://www.npmjs.com/package/siwi-hash)
-[![Github file size](https://img.shields.io/github/size/siwilizhao/siwi-hash/lib/md5.js.svg)](https://github.com/siwilizhao/siwi-hash/lib/hash.js)
+[![Github file size](https://img.shields.io/github/size/siwilizhao/siwi-hash/lib/hash.js.svg)](https://github.com/siwilizhao/siwi-hash/lib/hash.js)
 # siwi-hash
 md5 sha1 sha256 sha512
 
