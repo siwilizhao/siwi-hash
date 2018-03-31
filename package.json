@@ -1,6 +1,6 @@
 {
   "name": "siwi-hash",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "siwi-hash md5 sha1 sha256 sha512",
   "main": "index.js",
   "directories": {
